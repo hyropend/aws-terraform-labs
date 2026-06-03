@@ -7,6 +7,10 @@ The goal of this repository is to improve my real-world infrastructure knowledge
 
 This is an active learning repository where new labs, experiments and infrastructure components are added regularly.
 
+# Architecture Diagram
+
+![EKS Architecture](architecture.png)
+
 ---
 
 # 🚀 Technologies
